@@ -1,0 +1,20 @@
+{
+    "devices": {
+        "Salt Lamp": {
+            "channel": 1,
+            "button": 3
+        },
+        "Desk Lamp": {
+            "channel": 1,
+            "button": 4
+        },
+
+        "Cherry Tree Lamp": {
+            "channel": 1,
+            "button": 1
+        }
+    },
+    "scenes": {
+        "Lounge": ["Salt Lamp", "Desk Lamp", "Cherry Tree Lamp"]
+    }
+}

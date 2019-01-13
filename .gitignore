@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Certificates, keys and other sensitive files
+*.pem
+
+# Packaging
+package
